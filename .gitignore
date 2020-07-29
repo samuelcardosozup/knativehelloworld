@@ -1,0 +1,6 @@
+# Terraform
+.terraform
+*.tfstate
+*.tfstate.backup
+infraasacode/.terraform.tfstate.lock.info
+infraasacode/kubeconfig_eks-knative
